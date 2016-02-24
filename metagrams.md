@@ -1,6 +1,6 @@
 # Metagrams
 
-From the `Typo-L` Type Design mailing linst, 17 February 2002 (via [Microsoft Typography](https://www.microsoft.com/typography/links/news.aspx?NID=2454)
+From the `Typo-L` Type Design mailing linst, 17 February 2002 (via [Microsoft Typography](https://www.microsoft.com/typography/links/news.aspx?NID=2454))
 
 In evaluating a font, it would be nice to have a good test phrase.
 
@@ -16,13 +16,13 @@ So I started thinking about what constitutes a good test phrase, and here are th
 
 4. It shouldn't necessarily have a self-contained coherent meaning, but it should be a "normal" English sentence: using words that occur frequently, and no kinky Egyptian sex, please. But some awkwardness is probably inevitable.
 
-5. It should contain some extras like: punctuation, quotes, apostrophe*, hyphen, and some special-case words like "the", "I" and "a"" (the latter two especially helpful in evaluating an italic).
+5. It should contain some extras like: punctuation, quotes, apostrophe\*, hyphen, and some special-case words like "the", "I" and "a"" (the latter two especially helpful in evaluating an italic).
 
 6. It should be easy to memorize.
 
-* The most frequent words containing an apostrophe are: "don't", "it's", "I'm", "that's", "I'll", "couldn't", "can't", "you're". And I think "I'll"" provides the biggest spacing challenge.
+The most frequent words containing an apostrophe are: "don't", "it's", "I'm", "that's", "I'll", "couldn't", "can't", "you're". And I think "I'll"" provides the biggest spacing challenge.
 
-In trying to maximize the "normalness" of the phrase, I talked to my good friend, Linguistics, and compiled the list of the most common [English] words containing each letter (as a middle letter):
+In trying to maximize the "normalness" of the phrase, I talked to my good friend, Linguistics, and compiled the list of the most common English words containing each letter (as a middle letter):
 
 ```
 a: that
