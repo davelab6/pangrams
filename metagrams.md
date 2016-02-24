@@ -1,6 +1,6 @@
 # Metagrams
 
-From the `Typo-L` Type Design mailing linst, 17 February 2002 (via [Microsoft Typography](https://www.microsoft.com/typography/links/news.aspx?NID=2454))
+_From Hrant H Papazian to the Typo-L Type Design mailing list, 17 February 2002 (via [Microsoft Typography](https://www.microsoft.com/typography/links/news.aspx?NID=2454))_
 
 In evaluating a font, it would be nice to have a good test phrase.
 
